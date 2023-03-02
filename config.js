@@ -1,5 +1,4 @@
-// Developer By https://t.me/crypto_scem (Telegram)
-
+// 
 
 const workChainId = 1; // The network we are working with is the chainId list https://chainlist.org/
 
